@@ -1,0 +1,101 @@
+Year,Race-Ethnicity,Birthweight Type,Total Births,Events,Percent,Lower 95% CI,Upper 95% CI
+2014,All Race-Ethnic Groups,Low Birthweight,502878,33594,6.7,6.6,6.7
+2014,Hispanic,Low Birthweight,237298,14979,6.3,6.2,6.4
+2014,Multi-race,Low Birthweight,11577,883,7.6,7.2,8.1
+2014,African American,Low Birthweight,25211,2985,11.8,11.4,12.2
+2014,American Indian,Low Birthweight,1765,113,6.4,5.4,7.6
+2014,Asian,Low Birthweight,74874,5419,7.2,7.1,7.4
+2014,Pacific Islander,Low Birthweight,2017,134,6.6,5.6,7.8
+2014,White,Low Birthweight,138410,7906,5.7,5.6,5.8
+2014,Other,Low Birthweight,153,,,,
+2014,Unknown,Low Birthweight,11573,1165,10.1,9.5,10.6
+2015,All Race-Ethnic Groups,Low Birthweight,491652,33673,6.8,6.8,6.9
+2015,Hispanic,Low Birthweight,233969,15204,6.5,6.4,6.6
+2015,Multi-race,Low Birthweight,11577,875,7.6,7.1,8.1
+2015,African American,Low Birthweight,23977,2841,11.8,11.4,12.3
+2015,American Indian,Low Birthweight,1659,119,7.2,6,8.5
+2015,Asian,Low Birthweight,70726,5388,7.6,7.4,7.8
+2015,Pacific Islander,Low Birthweight,1995,152,7.6,6.5,8.9
+2015,White,Low Birthweight,135702,7969,5.9,5.7,6
+2015,Other,Low Birthweight,199,24,12.1,8.2,17.3
+2015,Unknown,Low Birthweight,11848,1101,9.3,8.8,9.8
+2016,All Race-Ethnic Groups,Low Birthweight,488832,33490,6.9,6.8,6.9
+2016,Hispanic,Low Birthweight,228709,14783,6.5,6.4,6.6
+2016,Multi-race,Low Birthweight,12008,968,8.1,7.6,8.6
+2016,African American,Low Birthweight,23746,2735,11.5,11.1,11.9
+2016,American Indian,Low Birthweight,1533,118,7.7,6.5,9.1
+2016,Asian,Low Birthweight,73521,5590,7.6,7.4,7.8
+2016,Pacific Islander,Low Birthweight,1839,111,6,5,7.2
+2016,White,Low Birthweight,132145,7803,5.9,5.8,6
+2016,Other,Low Birthweight,184,16,8.7,5.4,13.7
+2016,Unknown,Low Birthweight,15147,1366,9,8.6,9.5
+2014,All Race-Ethnic Groups,Very Low Birthweight,502878,5729,1.1,1.1,1.2
+2014,Hispanic,Very Low Birthweight,237298,2596,1.1,1.1,1.1
+2014,Multi-race,Very Low Birthweight,11577,151,1.3,1.1,1.5
+2014,African American,Very Low Birthweight,25211,698,2.8,2.6,3
+2014,American Indian,Very Low Birthweight,1765,23,1.3,0.9,1.9
+2014,Asian,Very Low Birthweight,74874,716,1,0.9,1
+2014,Pacific Islander,Very Low Birthweight,2017,31,1.5,1.1,2.2
+2014,White,Very Low Birthweight,138410,1214,0.9,0.8,0.9
+2014,Other,Very Low Birthweight,153,,,,
+2014,Unknown,Very Low Birthweight,11573,297,2.6,2.3,2.9
+2015,All Race-Ethnic Groups,Very Low Birthweight,491652,5532,1.1,1.1,1.2
+2015,Hispanic,Very Low Birthweight,233969,2651,1.1,1.1,1.2
+2015,Multi-race,Very Low Birthweight,11577,156,1.3,1.2,1.6
+2015,African American,Very Low Birthweight,23977,563,2.3,2.2,2.5
+2015,American Indian,Very Low Birthweight,1659,13,0.8,0.5,1.3
+2015,Asian,Very Low Birthweight,70726,689,1,0.9,1
+2015,Pacific Islander,Very Low Birthweight,1995,34,1.7,1.2,2.4
+2015,White,Very Low Birthweight,135702,1203,0.9,0.8,0.9
+2015,Other,Very Low Birthweight,199,,,,
+2015,Unknown,Very Low Birthweight,11848,217,1.8,1.6,2.1
+2016,All Race-Ethnic Groups,Very Low Birthweight,488832,5388,1.1,1.1,1.1
+2016,Hispanic,Very Low Birthweight,228709,2480,1.1,1,1.1
+2016,Multi-race,Very Low Birthweight,12008,182,1.5,1.3,1.8
+2016,African American,Very Low Birthweight,23746,547,2.3,2.1,2.5
+2016,American Indian,Very Low Birthweight,1533,20,1.3,0.8,2
+2016,Asian,Very Low Birthweight,73521,726,1,0.9,1.1
+2016,Pacific Islander,Very Low Birthweight,1839,17,0.9,0.6,1.5
+2016,White,Very Low Birthweight,132145,1154,0.9,0.8,0.9
+2016,Other,Very Low Birthweight,184,,,,
+2016,Unknown,Very Low Birthweight,15147,258,1.7,1.5,1.9
+2017,All Race-Ethnic Groups,Low Birthweight,471684,32464,6.9,6.8,7
+2017,Hispanic,Low Birthweight,219827,14464,6.6,6.5,6.7
+2017,Multi-race,Low Birthweight,11683,905,7.7,7.3,8.2
+2017,African American,Low Birthweight,23241,2839,12.2,11.8,12.6
+2017,American Indian,Low Birthweight,1492,127,8.5,7.2,10
+2017,Asian,Low Birthweight,71691,5352,7.5,7.3,7.7
+2017,Pacific Islander,Low Birthweight,1796,120,6.7,5.6,7.9
+2017,White,Low Birthweight,127120,7283,5.7,5.6,5.9
+2017,Other,Low Birthweight,127,12,9.4,5.5,15.8
+2017,Unknown,Low Birthweight,14707,1362,9.3,8.8,9.7
+2018,All Race-Ethnic Groups,Low Birthweight,454137,31636,7,6.9,7
+2018,Hispanic,Low Birthweight,210661,14118,6.7,6.6,6.8
+2018,Multi-race,Low Birthweight,11109,851,7.7,7.2,8.2
+2018,African American,Low Birthweight,22221,2690,12.1,11.7,12.5
+2018,American Indian,Low Birthweight,1492,116,7.8,6.5,9.2
+2018,Asian,Low Birthweight,68260,5188,7.6,7.4,7.8
+2018,Pacific Islander,Low Birthweight,1718,132,7.7,6.5,9
+2018,White,Low Birthweight,122106,7019,5.7,5.6,5.9
+2018,Other,Low Birthweight,292,24,8.2,5.6,11.9
+2018,Unknown,Low Birthweight,16278,1498,9.2,8.8,9.7
+2017,All Race-Ethnic Groups,Very Low Birthweight,471684,5193,1.1,1.1,1.1
+2017,Hispanic,Very Low Birthweight,219827,2411,1.1,1.1,1.1
+2017,Multi-race,Very Low Birthweight,11683,171,1.5,1.3,1.7
+2017,African American,Very Low Birthweight,23241,592,2.5,2.4,2.8
+2017,American Indian,Very Low Birthweight,1492,23,1.5,1,2.3
+2017,Asian,Very Low Birthweight,71691,686,1,0.9,1
+2017,Pacific Islander,Very Low Birthweight,1796,,,,
+2017,White,Very Low Birthweight,127120,1022,0.8,0.8,0.9
+2017,Other,Very Low Birthweight,127,,,,
+2017,Unknown,Very Low Birthweight,14707,268,1.8,1.6,2.1
+2018,All Race-Ethnic Groups,Very Low Birthweight,454137,5022,1.1,1.1,1.1
+2018,Hispanic,Very Low Birthweight,210661,2375,1.1,1.1,1.2
+2018,Multi-race,Very Low Birthweight,11109,134,1.2,1,1.4
+2018,African American,Very Low Birthweight,22221,543,2.4,2.2,2.7
+2018,American Indian,Very Low Birthweight,1492,,,,
+2018,Asian,Very Low Birthweight,68260,664,1,0.9,1
+2018,Pacific Islander,Very Low Birthweight,1718,23,1.3,0.9,2
+2018,White,Very Low Birthweight,122106,969,0.8,0.7,0.8
+2018,Other,Very Low Birthweight,292,,,,
+2018,Unknown,Very Low Birthweight,16278,294,1.8,1.6,2
