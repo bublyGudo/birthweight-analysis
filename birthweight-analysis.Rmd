@@ -1,0 +1,66 @@
+---
+title: "birthweight_analysis"
+author: "Fang Wang"
+date: "2025-09-07"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+# Libraries
+```{r library}
+library(tidyverse)
+library(arsenal)
+library(gtsummary)
+setwd("/Users/fangwang/Downloads/P8130 Biostatistical Methods I")
+```
+
+# Dataset
+```{r data}
+data = read.csv("./low-and-very-low-birthweight-by-race-ethnicity-2014-2018.csv")|>
+  janitor::clean_names()
+```
+
+# publication-ready table using tbl_summary()
+```{r}
+tbl_summary(data)
+```
+
+# Caculate Basics
+```{r basics}
+mean(data$total_births)
+median(data$total_births)
+var(data$total_births)
+sd(data$total_births)
+min(data$total_births)
+max(data$total_births)
+range(data$total_births)
+quantile(data$total_births)
+summary(data$total_births)
+```
+
+# tapply
+```{r}
+mean = tapply(data$total_births, data$year, mean)
+#Take the vector data$total_births.
+#Split it into groups according to data$year.
+#Apply mean() separately to each group.
+#Return a vector (or array) of means, one per year.
+sd = tapply(data$total_births, data$year, sd)
+med = tapply(data$total_births, data$year, median)
+min = tapply(data$total_births, data$year, min)
+max = tapply(data$total_births, data$year, max)
+data1 = cbind(mean, sd, med, min, max)
+```
+
+# ⚖️ Differences
+# tapply (base R): Input	Works on a vector with grouping factor(s);
+# Output	Returns a vector/array (names = groups)	;
+# Style	Compact, but less readable;
+# Flexibility	Good for one-off calculations.
+
+# group_by + summarise (dplyr): Works on a data frame; 
+# Returns a data frame (tibble); More verbose, but clearer and extendable; 
+# Easier for pipelines & multiple summaries.
+
+
+
